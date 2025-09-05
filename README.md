@@ -18,3 +18,4 @@ This repository contains the source and required assignment files.
 
 ## License
 Apache License 2.0. See LICENSE file.
+This line fixes a sample typo.
